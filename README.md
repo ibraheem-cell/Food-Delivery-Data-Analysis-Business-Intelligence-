@@ -1,1 +1,1 @@
-# Food-Delivery-Data-Analysis-Business-Intelligence-
+Food delivery data analysis project using Python, Pandas,sql and Power BI to explore sales trends, customer behavior, and restaurant performance, transforming raw data into actionable business insights.
