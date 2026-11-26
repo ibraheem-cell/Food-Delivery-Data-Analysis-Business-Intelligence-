@@ -126,14 +126,45 @@ Aspiring Data Analyst | Python | SQL | Power BI
 
 This project was created as part of my learning journey in Data Analytics and Business Intelligence.
 
-## powerbi dashboards
-<img width="759" height="433" alt="image" src="https://github.com/user-attachments/assets/cb83652a-57a0-4951-90ec-929000807c02" />
+## Power BI Dashboard
 
-<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/41e71c32-97d8-4cc5-8f43-6c542b212c8a" />
+The interactive Power BI dashboard provides a visual overview of food delivery business performance, helping users explore key metrics, sales trends, and customer behavior.
 
-<img width="763" height="422" alt="image" src="https://github.com/user-attachments/assets/49a109ff-ae77-4488-935a-2f139c46c71d" />
+### Dashboard Previews
 
-<img width="757" height="425" alt="image" src="https://github.com/user-attachments/assets/940b678b-04de-491d-9f59-85bbb596d8cc" />
+<table>
+  <tr>
+    <td align="center">
+      <strong>Dashboard Overview</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/cb83652a-57a0-4951-90ec-929000807c02" width="100%" alt="Food delivery Power BI dashboard overview">
+    </td>
+    <td align="center">
+      <strong>Sales Analysis</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/41e71c32-97d8-4cc5-8f43-6c542b212c8a" width="100%" alt="Food delivery Power BI sales analysis">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Customer Analysis</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/49a109ff-ae77-4488-935a-2f139c46c71d" width="100%" alt="Food delivery Power BI customer analysis">
+    </td>
+    <td align="center">
+      <strong>Business Insights</strong><br><br>
+      <img src="https://github.com/user-attachments/assets/940b678b-04de-491d-9f59-85bbb596d8cc" width="100%" alt="Food delivery Power BI business insights">
+    </td>
+  </tr>
+</table>
+
+### Dashboard Features
+
+- Interactive data visualizations
+- KPI cards for tracking business performance
+- Sales and customer analysis
+- Data-driven business insights
+
+### Explore the Dashboard
+
+[View the Power BI project files in this repository](https://github.com/ibraheem-cell/Food-Delivery-Data-Analysis-Business-Intelligence-)
 
 
 
