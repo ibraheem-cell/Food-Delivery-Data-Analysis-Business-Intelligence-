@@ -125,3 +125,16 @@ Aspiring Data Analyst | Python | SQL | Power BI
 ---
 
 This project was created as part of my learning journey in Data Analytics and Business Intelligence.
+
+## powerbi dashboards
+<img width="759" height="433" alt="image" src="https://github.com/user-attachments/assets/cb83652a-57a0-4951-90ec-929000807c02" />
+
+<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/41e71c32-97d8-4cc5-8f43-6c542b212c8a" />
+
+<img width="763" height="422" alt="image" src="https://github.com/user-attachments/assets/49a109ff-ae77-4488-935a-2f139c46c71d" />
+
+<img width="757" height="425" alt="image" src="https://github.com/user-attachments/assets/940b678b-04de-491d-9f59-85bbb596d8cc" />
+
+
+
+
